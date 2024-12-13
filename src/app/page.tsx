@@ -149,7 +149,7 @@ export default function TodoList() {
                 className="mb-4"
               />
               <p className="text-gray-500 text-center">
-                Looks like you're all caught up! Take a break or plot your next move?
+                Looks like you&apos;re all caught up! Take a break or plot your next move?
               </p>
             </div>
           )}
